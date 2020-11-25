@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Joy",
+        "age": 28,
+        "isProgrammer": true,
+        "country": "Kota"
+    },
+    {
+        "name": "Kyle",
+        "age": 30,
+        "isProgrammer": true,
+        "country": "USA"
+    },
+    {
+        "name": "Elon",
+        "age": 48,
+        "isProgrammer": true,
+        "country": "Canada"
+    }
+]

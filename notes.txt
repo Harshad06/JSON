@@ -1,0 +1,30 @@
+
+-------
+NOTES:-
+-------
+
+We parse JSON in Javascript as a string so wrap JSON data with "back quotes".
+
+ex.
+
+`[
+{},{},{}
+]`
+
+hence, the entire data becomes a string value in { ... }. 
+
+Thus, we need to now parse JSON string as JSON object like below -
+
+<script>
+        var person = {
+            name: "Joy",
+            age: 28
+        }
+
+        person =JSON.stringify(person);
+
+        person =JSON.parse(person);
+
+        console.log(person.name);
+
+</script>  

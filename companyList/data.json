@@ -1,0 +1,38 @@
+[
+    {
+        "companyName": "Google",
+        "rating": 4.9,
+        "CEO": "Larry Page",
+        "address": {
+            "street": "5 main st",
+            "city": "Mountain View, California, United States"
+        }
+    },
+    {
+        "companyName": "Tesla",
+        "rating": 4.7,
+        "CEO": "Elon Musk",
+        "address": {
+            "street": "5 main st",
+            "city": "Palo Alto, California, United States"
+        }
+    },
+    {
+        "companyName": "Apple",
+        "rating": 4.7,
+        "CEO": "Tim Cook",
+        "address": {
+            "street": "5 main st",
+            "city": "Cupertino, California, United States"
+        }
+    },
+    {
+        "companyName": "Amazon",
+        "rating": 4.8,
+        "CEO": "Jeff Bezos",
+        "address": {
+            "street": "5 main st",
+            "city": "Seattle, Washington, United States"
+        } 
+    }
+]
